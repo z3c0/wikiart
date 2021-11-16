@@ -112,3 +112,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# data
+data/
+
+# reports
+*.pbix
+
+# project files
+.vscode
